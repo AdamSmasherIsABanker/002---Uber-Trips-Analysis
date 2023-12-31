@@ -1,8 +1,8 @@
 # Uber Trip Analysis
 
-Basic script to analyse the America Uber trip dataset from [Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city?resource=download)
+Basic script to analyse the America Uber trip dataset from [Kaggle](https://www.kaggle.com/datasets/arijit75/survey-data)
 
 # Files
 
-- America .  csv
+- yearly_deaths . csv
 - analyze . py
